@@ -6,5 +6,7 @@ Simple python script that wraps around GitHub CLI (https://cli.github.com/) to a
 - GitHub CLI (https://cli.github.com/) `brew install gh`
 
 ## Usage
-`python main.py <dir>` where `dir` is the root directory of repository to fetch dependencies from
+`python main.py <dir>` where `dir` is the root directory of repository to fetch dependencies from.
+
+
 
